@@ -65,7 +65,7 @@ Visual Studio Code can be obtained [Here](https://code.visualstudio.com/)
 	
 	4. Use your keyboard shortcut to run a Test Task, and the menu should compile and inject.
 	
-	4. Once the game loads, You should be able to Aim and Knife to open the menu. 
+	5. Once the game loads, You should be able to Aim and Knife to open the menu. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ Contributions by the community are welcome, as are Bug Fixes, and suggestions. I
 
 ## Changelog
 
-Version 1.3
+Version 0.3Beta
 <details>
 	<summary>
 		Version 0.3 Beta
