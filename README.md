@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -74,10 +75,7 @@ Visual Studio Code can be obtained [Here](https://code.visualstudio.com/)
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Full Map Completion of EE's
-- [] Map Switch with character support
-- [] More Game Modes, Model changer, More features
-- [] Fix Menu Options Disappearing randomly.
+- [] Coming Soon
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
